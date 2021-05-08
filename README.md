@@ -37,6 +37,7 @@ En este esquema el usuario (organización o empresa) es dueño de su nube pero a
 - **IAAS (Infraestructura como servicio)**: La nube provee el servidor, maquina virtual con la memoria y procesamiento deseado pero el software y configuración corren por cuenta del usuario
 - **PAAS (Plataforma como servicio)**: La nube provee el servidor, memoria, procesamiento y sistema operativo pero el usuario debe instalar sus aplicaciones así como encargarse de toda la configuración de estas
 - **SAAS (Software como servicio)**: La nube provee tanto la infraestructura como el software que neesita el usuario para correr sus procesos
+![Servicios que ofrecen las nubes](https://cloudcomputinglanube.files.wordpress.com/2016/11/221.jpg?w=840)
 ## Servicios que ofrece Azure
 ## infraestructura de Azure
 ## Cuentas y facturación

@@ -1,9 +1,9 @@
 # Conceptos básicos de Azure
 ## <p>Computo <br>
-Un equipo de computo es un dispositivo electrónico que cuenta con una tarjeta madre que es la que controla los demás componentes del equipo, un procesador, una memoria RAM (almacenamiento temporal de la información), Memoria de almacenamiento (donde se guarda la infomación del usuario y del sistema) y sofrware que es la conección entre el usuario y el equipo, gracias al cual el usuario puede asignar órdenes al equipo para realizar procesos. </p>
-Esta es la estructura base de un equipo de computo, dependiendo del tipo de equipo puede estar acompañando en un teclado, ratón y monitor o solamente una pantalla tactil que suple las funciones del teclado y ratón como es el caso de los celulares y tabletas. </p>
+Un equipo de computo es un dispositivo electrónico que cuenta con una tarjeta madre que es la que controla los demás componentes del equipo, un procesador, una memoria RAM (almacenamiento temporal de la información), Memoria de almacenamiento (donde se guarda la infomación del usuario y del sistema) y software que es la conección entre el usuario y el equipo, gracias al cual el usuario puede asignar órdenes al equipo para realizar procesos. </p>
+Esta es la estructura base de un equipo de computo, dependiendo del tipo de equipo puede estar acompañando en un teclado, ratón y monitor o solamente una pantalla táctil que suple las funciones del teclado y ratón como es el caso de los celulares y tabletas. </p>
 ![partes de la computadora](http://www.accesoriosparacomputadores.co/blog/wp-content/uploads/2015/03/principales-partes-del-computador.jpg)
-## <p>Comunicación entre equipos de computo <br>
+## Comunicación entre equipos de computo <br>
 Los equipos de computo pueden comunicarse o transmitir información principalmente a través de señales infrarojas (en el pasado), por señales de radio bluethood y redes (eternet y wifi). Además para que los equipos de computo se puedan comunicar requierende un lenguaje o protocolo de comunicación </p>
 La comunicación por medio de redes es la que permite la transferencia de datos con la mayor velocidad y es la más utilizada en la comunicación entre computadoras. </p>
 El lenguaje de comunicación se conoce como TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet). Mediante este leguaje se pueden transferir datos entre equipos de computo dentro de una misma infraestructura 8red local) o servidor y por medio de internet entre diferentes infraestructuras o servidores los cuales pueden estar ubicados incluso continentes diferentes, además esta comunicación permite que de manera remota se pueda operar un equipo de computo desde otra ubicación física </p>
@@ -37,6 +37,8 @@ En este esquema el usuario (organización o empresa) es dueño de su nube pero a
 - **IAAS (Infraestructura como servicio)**: La nube provee el servidor, maquina virtual con la memoria y procesamiento deseado pero el software y configuración corren por cuenta del usuario
 - **PAAS (Plataforma como servicio)**: La nube provee el servidor, memoria, procesamiento y sistema operativo pero el usuario debe instalar sus aplicaciones así como encargarse de toda la configuración de estas
 - **SAAS (Software como servicio)**: La nube provee tanto la infraestructura como el software que neesita el usuario para correr sus procesos
+<br>
+<br>
 ![Servicios que ofrecen las nubes](https://cloudcomputinglanube.files.wordpress.com/2016/11/221.jpg?w=840)
 ## Servicios que ofrece Azure
 ## infraestructura de Azure

@@ -25,9 +25,16 @@ Por último otro de los servición de la nube es el uso de aplicaciones especial
 ![nube](/fotos/Almacenamiento_Nube-630x450.jpg)
 <br>
 ## Tipos de nubes
-- Servicios que ofrece Azure
-- infraestructura de Azure
-- Cuentas y facturación
+- Nube privada:
+    Una persona, organización o empresa es dueña de la infraestructura, es decir, de los servidores, el espacio físico donde estos se encuentran, se encarga del software y su configuración. El uso de este recurso es restringido y el mantenimiento es responsabilidad del dueño de la nube
+
+- Nube pública:
+    Se denomina así cuando los recursos y servicios de la nube están a disposición de cualquier usuario que desee contratar dicho servicio. Bajo este esquema el mantenimiento de la nube corre bajo la responsabilidad del dueño de la nube y el usuario no tiene de que preocuparse por eso.
+- Nube híbrida
+    En este esquema el usuario (organización o empresa) es dueño de su nube pero además contrata los servicios de una nube pública para y correr algunas aplicaciones en estos servidores, de esta forma el usuario pude incrementar su capacidad de operación cuando lo requiera.
+## Servicios que ofrece Azure
+## infraestructura de Azure
+## Cuentas y facturación
 
 ## Servicios Azure
 - Servicios de infraestructura

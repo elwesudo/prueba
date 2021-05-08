@@ -32,6 +32,7 @@ Una persona, organización o empresa es dueña de la infraestructura, es decir, 
 Se denomina así cuando los recursos y servicios de la nube están a disposición de cualquier usuario que desee contratar dicho servicio. Bajo este esquema el mantenimiento de la nube corre bajo la responsabilidad del dueño de la nube y el usuario no tiene de que preocuparse por eso.
 - **Nube híbrida**:
 En este esquema el usuario (organización o empresa) es dueño de su nube pero además contrata los servicios de una nube pública para y correr algunas aplicaciones en estos servidores, de esta forma el usuario pude incrementar su capacidad de operación cuando lo requiera.
+![Tipos de nubes](/fotos/nube-hibrida.jpg)
 ## Servicios que ofrece Azure
 ## infraestructura de Azure
 ## Cuentas y facturación

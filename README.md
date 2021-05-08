@@ -24,7 +24,7 @@ Pero el almacenamiento no es lo único, también se puede usar de forma remota q
 ![nube](/fotos/Almacenamiento_Nube-630x450.jpg)
 <br>
 ## Tipos de nubes
-###Existen tres tipos de nube:
+### Existen tres tipos de nube:
 - **Nube privada**:
 Una persona, organización o empresa es dueña de la infraestructura, es decir, de los servidores, el espacio físico donde estos se encuentran, se encarga del software y su configuración. El uso de este recurso es restringido y el mantenimiento es responsabilidad del dueño de la nube
 

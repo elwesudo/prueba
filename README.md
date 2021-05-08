@@ -15,6 +15,7 @@ El modelo OSI explica las redes de comunicación en 7 capas o niveles: </p>
 - **Nivel sesión**: comunicación entre dispositivos de la red </p>
 - **Nivel de Presentación**: Representación de los datos </p>
 - **Nivel aplicación**: servicios de red a aplicaciones </p>
+![Comunicacion entre equipos de cómputo](fotos/modelo_osi.png)
 ## <p> Nube <br>
 Conocido como el computo en la nube, es un sevicio que permite la disponibilidad y uso de recursos de almacenamiento y capacidad de computo, como memoria RAM y procecadores, de forma remota desde otro dispositivo de computo mediante el uso de redes. </p>
 Los recursos y servicios que ofrecen las nubes son impresionantes y le permiten al usuario disponer de datos sin tener que almacenarlos físicamente en su dispositivo, además permite de manera sencilla y rápida el compartir esta información, también funciona como un respaldo de esta información. </p>

@@ -47,7 +47,7 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de infraestructura:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Computo**: Maquinas vituales y Contenedores 
-	- **Almacenamiento**: BLOB Storage, Azzure files, Premium Storage 
+>	- **Almacenamiento**: BLOB Storage, Azzure files, Premium Storage 
  - **Redes**: Virtual Network, Load Balancer, DNS, Express Router, Traffic Manager, VPN Gateway y Application Gateway
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de plataforma
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de Seguridad

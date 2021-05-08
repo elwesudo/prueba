@@ -38,14 +38,14 @@ En este esquema el usuario (organización o empresa) es dueño de su nube pero a
 - **PAAS (Plataforma como servicio)**: La nube provee el servidor, memoria, procesamiento y sistema operativo pero el usuario debe instalar sus aplicaciones así como encargarse de toda la configuración de estas
 - **SAAS (Software como servicio)**: La nube provee tanto la infraestructura como el software que neesita el usuario para correr sus procesos
 
+La nube provee tanto la infraestructura como el software que neesita el usuario para correr sus procesos
+
 ![Servicios que ofrecen las nubes](https://profile.es/wp-content/media/modelos-servicios-cloud-iaas-paas-saas.jpg)
 
-## Servicios que ofrece Azure
-## infraestructura de Azure
-## Cuentas y facturación
-
 ## Servicios Azure
-- Servicios de infraestructura
-- Servicios de plataforma
-- Servicios de Seguridad
-- Zonas de disponibilidad
+Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al rededor del mundo. Azure provee más de 100 servicios que permiten hacer cualquier cosa desde correr una aplicación existente hasta explorar nuevos paradigmas en software como inteligancia artificial y realidad aumentada. Los servicios más utilizados de Azure se pueden resumir de la siguiente forma:
+
+### - Servicios de infraestructura
+### - Servicios de plataforma
+### - Servicios de Seguridad
+### - Zonas de disponibilidad

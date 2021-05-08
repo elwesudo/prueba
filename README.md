@@ -21,9 +21,10 @@ Conocido como el computo en la nube, es un sevicio que permite la disponibilidad
 Los recursos y servicios que ofrecen las nubes son impresionantes y le permiten al usuario disponer de datos sin tener que almacenarlos físicamente en su dispositivo, además permite de manera sencilla y rápida el compartir esta información, también funciona como un respaldo de esta información. </p>
 Pero el almacenamiento no es lo único, también se puede usar de forma remota que equipos de computo con mayor capacidad de procesamiento y memoria sin tener que comprar una computadora muy potente, puesto que se puede rentar por un determinado tiempo reduciendo de esta forma los gastos de capital. </p>
 Por último otro de los servición de la nube es el uso de aplicaciones especializadas. <p>
+<br>
 ![nube](/fotos/Almacenamiento_Nube-630x450.jpg)
-Existen tres tipos de nubes: <p>
-- tipos de nubes
+<br>
+## Tipos de nubes
 - Servicios que ofrece Azure
 - infraestructura de Azure
 - Cuentas y facturación

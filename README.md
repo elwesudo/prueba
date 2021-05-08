@@ -21,4 +21,4 @@ El lenguaje de comunicación se conoce como TCP/IP (Protocolo de Control de Tran
 > - Servicios de plataforma
 > - Servicios de Seguridad
 > - Zonas de disponibilidad
-> <div style = "color:red" > prueba div  </div>
+> [button]("boton")

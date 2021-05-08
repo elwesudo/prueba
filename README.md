@@ -45,7 +45,7 @@ La nube provee tanto la infraestructura como el software que neesita el usuario 
 ## Servicios Azure
 Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al rededor del mundo. Azure provee más de 100 servicios que permiten hacer cualquier cosa desde correr una aplicación existente hasta explorar nuevos paradigmas en software como inteligancia artificial y realidad aumentada. Los servicios más utilizados de Azure se pueden resumir de la siguiente forma:
 
-- <h1>Servicios de infraestructura:</h1>
+- <h4>Servicios de infraestructura:</h4>
 	- **Computo**: Maquinas vituales y Contenedores 
 	- **Almacenamiento**: BLOB Storage, Azzure files, Premium Storage 
 	- **Redes**: Virtual Network, Load Balancer, DNS, Express Router, Traffic Manager, VPN Gateway y Application Gateway

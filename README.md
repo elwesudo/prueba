@@ -48,11 +48,33 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <li><h3>Servicios de infraestructura:</h3>
 <ul>
 <li><b>Computo</b>: Maquinas vituales y Contenedores</li>
-<li><b>Almacenamiento</b>: BLOB Storage, Azzure files, Premium Storage 
-<li><b>Redes</b>: Virtual Network, Load Balancer, DNS, Express Router, Traffic Manager, VPN Gateway y Application Gateway</li>
+<li><b>Almacenamiento</b>: </li> 
+<li><b>Redes</b>: </li>
 </ul>
 </li>
+<li><h3>Servicios de plataforma</h3>
+<ul>
+<li><b>Computo</b>: </li>
+<li><b>Web y móvil</b>: </li>
+<li><b>Servicios de desarrollador</b>: </li>
+<li><b>Integración</b>: </li>
+<li><b>Análisis e IOT</b>: </li>
+<li><b></b>:</li>
 </ul>
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de plataforma
+</li>
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de Seguridad
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zonas de disponibilidad
+</ul>
+<h2>Arquitectura de azure</h2>
+<ul>
+<li><b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
+<ul>
+<li><h6><b>Americanas</b><h6>
+<li><h6><b>Europa</b><h6>
+<li><h6><b>Asia-Pacífico</b><h6>
+<li><h6><b>Oriente medio y África</b><h6>
+<li><h6><b>Zonas de disponibilidad</b>: Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.<h6>
+<li>
+</ul>
+<li>
+</ul>

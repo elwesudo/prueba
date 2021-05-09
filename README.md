@@ -64,10 +64,9 @@ En odas las cuentas se debe especificar el nombre, email, información de contac
 - Azure Enterprise Agreement esta provee la mayor flexibilidaden la compra de servicios en la nube, ademas de contar con descuentos de nuevas licencias de seguros de Softwares.
 <li> Subcripción Azure para estudiantes Esta incluye un crédito de 100 usd para ser usado en los primeros 12 meses además de poder seleccionar servicios sin requerimeinto de tarjeta de crédito. Solo se tiene que demostrar que se es estudiante.</li>
 <li> Múltiples subcripciones con una misma cuenta: Es muy utilizado por empresas para controlar el acceso y facturación.</li>
-- Facturación en Azure
-- Como crear una cuenta en Azure
-- Como obtener ayuda y soporte
 </ul>
 <a href="https://docs.microsoft.com/es-es/azure/cost-management-billing/">Facturación de Azure</a>
+<br>
 <a href="https://azure.microsoft.com/es-es/free/">Como crear una cuenta en Azure</a>
+<br>
 <a href="https://azure.microsoft.com/es-mx/support/options/#overview">Ayuda y soporte</a>

@@ -55,8 +55,8 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <li><h5><b>Asia-Pacífico</b></h6></li>
 <li><h5><b>Oriente medio y África</b></h5></li>
 <li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5></li></ul></li></ul>
-## Creación de la cuenta de Azure
-Con la creación de una cuenta Azure se pueden crear, probar e implementar aplicaciones empresariales. Además de crear aplicaciones web y experiencia mobiles, así como obtenger información de sus datos a través del aprendizaje automático y analítico
+<h2> Creación de la cuenta de Azure</h2>
+Con la creación de una cuenta Azure se pueden crear, probar e implementar aplicaciones empresariales. Además de crear aplicaciones web y experiencia mobiles, así como obtenger información de sus datos a través del aprendizaje automático y analítico.
 En odas las cuentas se debe especificar el nombre, email, información de contacto, información de facturación y tarjeta de crédito, existen varios tipos de cuentas: 
 - Subscripción gratuita: Esta suscripción incluye un crédito de 200 usd para ser utilizados en cualquier servicio durante un lapso de 30 días. libre acceso a los productos más populares de Azure durante 12 meses. Para crearla se necesita un número telefónico, una tarjeta de crédito y una cuenta de Microsoft. - Subscripción Pay-as-you-go: En esta subscripción se cobra mensualmente por los servicios utilizados durante el periodo. esta es la más apropiada para la mayoría de los usuarios desde individuos hasta pequeñas empresas y algunas organizaciones grandes.
 - Subcripción Pay-as-you-go DEV/TEST Esta esta diseñada para subcriptores de Visual Studio y se limita exclusivamente para desarrollo y pruebas

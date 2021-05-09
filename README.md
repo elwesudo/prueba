@@ -67,7 +67,7 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <li><b>Servicios de Seguridad</b>: Portal, Active Directory, multi-Factor Authentication, Automation, Key Vault, Store/Marketplace y VM Image Gallery and VM Depot</li>
 </ul>
 <img src="https://www.keykumo.com/wp-content/uploads/2016/08/azure-keykumo.png"></img>
-<h2>Arquitectura de azure</h2>
+<h2>Zonas de Azure</h2>
 <b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
 <br>
 <b>Geograficas</b>: Son regiones geopolíticas o fronteras entre paíces que tienen 2 o más regiones que preservan el almacenamiento de los datos. La geografía esta dividida en las siguientes áreas:
@@ -77,6 +77,7 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <li><b>Asia-Pacífico</b></li>
 <li><b>Oriente medio y África</b></li>
 <li><b>Zonas de disponibilidad</b>: Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</li></ul>
+<img src="https://azurecomcdn.azureedge.net/cvt-93da322b8e36592b6fa17faa77857ee4467225501ecd84a7c5466e5d0f790b30/images/shared/regions-map-mobile.svg"/>
 <h2> Creación de la cuenta de Azure</h2>
 Con la creación de una cuenta Azure se pueden crear, probar e implementar aplicaciones empresariales. Además de crear aplicaciones web y experiencia mobiles, así como obtenger información de sus datos a través del aprendizaje automático y analítico.
 En odas las cuentas se debe especificar el nombre, email, información de contacto, información de facturación y tarjeta de crédito, existen varios tipos de cuentas: 

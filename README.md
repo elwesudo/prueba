@@ -88,6 +88,7 @@ En odas las cuentas se debe especificar el nombre, email, información de contac
 <li> Múltiples subcripciones con una misma cuenta: Es muy utilizado por empresas para controlar el acceso y facturación.</li>
 </ul>
 <ul><img src="https://i1.wp.com/gerardoverduzco.com/wp-content/uploads/2017/02/Microsoft-Azure-Registro-de-Prueba.png?resize=640%2C387"/>
+<br>
 <a href="https://docs.microsoft.com/es-es/azure/cost-management-billing/">Facturación de Azure</a>
 <br>
 <a href="https://azure.microsoft.com/es-es/free/">Como crear una cuenta en Azure</a>

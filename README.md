@@ -75,8 +75,4 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <li><h5><b>Europa</b></h5>
 <li><h5><b>Asia-Pacífico</b></h6>
 <li><h5><b>Oriente medio y África</b></h5>
-<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5>
-<li>
-</ul>
-<li>
-</ul>
+<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5><li></ul><li></ul>

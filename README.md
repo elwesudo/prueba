@@ -87,6 +87,7 @@ En odas las cuentas se debe especificar el nombre, email, información de contac
 <li> Subcripción Azure para estudiantes Esta incluye un crédito de 100 usd para ser usado en los primeros 12 meses además de poder seleccionar servicios sin requerimeinto de tarjeta de crédito. Solo se tiene que demostrar que se es estudiante.</li>
 <li> Múltiples subcripciones con una misma cuenta: Es muy utilizado por empresas para controlar el acceso y facturación.</li>
 </ul>
+<img src="https://i1.wp.com/gerardoverduzco.com/wp-content/uploads/2017/02/Microsoft-Azure-Registro-de-Prueba.png?resize=640%2C387"/>
 <a href="https://docs.microsoft.com/es-es/azure/cost-management-billing/">Facturación de Azure</a>
 <br>
 <a href="https://azure.microsoft.com/es-es/free/">Como crear una cuenta en Azure</a>

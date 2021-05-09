@@ -69,11 +69,11 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 <ul>
 <li><b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
 <ul>
-<li><h6><b>Americanas</b><h6>
-<li><h6><b>Europa</b><h6>
-<li><h6><b>Asia-Pacífico</b><h6>
-<li><h6><b>Oriente medio y África</b><h6>
-<li><h6><b>Zonas de disponibilidad</b>: Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.<h6>
+<li><h5><b>Americanas</b></h5>
+<li><h5><b>Europa</b></h5>
+<li><h5><b>Asia-Pacífico</b></h6>
+<li><h5><b>Oriente medio y África</b></h5>
+<li><h5><b>Zonas de disponibilidad</b>: Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5>
 <li>
 </ul>
 <li>

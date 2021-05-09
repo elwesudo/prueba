@@ -68,3 +68,6 @@ En odas las cuentas se debe especificar el nombre, email, información de contac
 - Como crear una cuenta en Azure
 - Como obtener ayuda y soporte
 </ul>
+<a href="https://docs.microsoft.com/es-es/azure/cost-management-billing/">Facturación de Azure</a>
+<a href="https://azure.microsoft.com/es-es/free/">Como crear una cuenta en Azure</a>
+<a href="https://azure.microsoft.com/es-mx/support/options/#overview">Ayuda y soporte</a>

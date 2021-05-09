@@ -65,7 +65,8 @@ Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al r
 </li>
 <li><b>Operaciones Híbridas</b>: Azure AD Connect Health, Ad Privileged Identity Management, Backup, Operational Insights, Import/Export, Site Recovery y StorSimple</li>
 <li><b>Servicios de Seguridad</b>: Portal, Active Directory, multi-Factor Authentication, Automation, Key Vault, Store/Marketplace y VM Image Gallery and VM Depot</li>
-<img src="https://www.nordicsolutions.es/wp-content/uploads/2020/05/AzureNube.jpg"></img>
+</ul>
+<img src="https://www.keykumo.com/wp-content/uploads/2016/08/azure-keykumo.png"></img>
 <h2>Arquitectura de azure</h2>
 <b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
 <b>Geograficas</b>: Son regiones geopolíticas o fronteras entre paíces que tienen 2 o más regiones que preservan el almacenamiento de los datos. La geografía esta dividida en las siguientes áreas:

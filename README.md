@@ -44,17 +44,36 @@ La nube provee tanto la infraestructura como el software que neesita el usuario 
 
 ## Servicios Azure
 Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al rededor del mundo. Azure provee más de 100 servicios que permiten hacer cualquier cosa desde correr una aplicación existente hasta explorar nuevos paradigmas en software como inteligancia artificial y realidad aumentada. Los servicios más utilizados de Azure se pueden resumir de la siguiente forma:
-<h2>Arquitectura de azure</h2>
 <ul>
-<li><b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
+<li><h3>Servicios de infraestructura</h3>
+<ul>
+<li><b>Computo</b>: Maquinas vituales y Contenedores</li>
+<li><b>Almacenamiento</b>: BLOB Storage, Azzure files, Premium Storage</li>
+<li><b>Redes</b>: Virtual Network, Load Balancer, DNS, Express Router, Traffic Manager, VPN Gateway y Application Gateway</li>
+</ul>
 </li>
-<li><b>Geograficas</b>: Son regiones geopolíticas o fronteras entre paíces que tienen 2 o más regiones que preservan el almacenamiento de los datos. La geografía esta dividida en las siguientes áreas:
+<li><h3>Servicios de plataforma</h3>
+<ul>
+<li><b>Computo</b>: Cloud Services, Services Fabric, Batch y Remote App</li>
+<li><b>Web and mobile</b>: Web Apps, API Apps, API Managment, Mobile Apps, Logic Apps y Notification Hubs</li>
+<li><b>Servicios de desarrollador</b>: Visual Studio, Azure SDK, Team Project y Applications Insights</li>
+<li><b>Integración</b>: Storage Queues, BizTalk Services, Hybrid Connections y Service Bus</li>
+<li><b>Analytics and IOT</b>: HDInsight, Machine Learning, Data Factory, Event Hubs, Stream Analytics y Mobile Engagement</li>
+<li><b>Datos</b>: SQL Database, SQL Data Warehouse, Redis Cache, Search, cosmos DB y Tables</li>
+<li><b>Media and CDN</b>: Media Services y Content Delivery Network (CDN)</li>
+</ul>
+</li>
+<li><b>Operaciones Híbridas</b>: Azure AD Connect Health, Ad Privileged Identity Management, Backup, Operational Insights, Import/Export, Site Recovery y StorSimple</li>
+<li><b>Servicios de Seguridad</b>: Portal, Active Directory, multi-Factor Authentication, Automation, Key Vault, Store/Marketplace y VM Image Gallery and VM Depot</li>
+<h2>Arquitectura de azure</h2>
+<b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
+<b>Geograficas</b>: Son regiones geopolíticas o fronteras entre paíces que tienen 2 o más regiones que preservan el almacenamiento de los datos. La geografía esta dividida en las siguientes áreas:
 <ul>
 <li><h5><b>Americanas</b></h5></li>
 <li><h5><b>Europa</b></h5></li>
 <li><h5><b>Asia-Pacífico</b></h6></li>
 <li><h5><b>Oriente medio y África</b></h5></li>
-<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5></li></ul></li></ul>
+<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5></li></ul>
 <h2> Creación de la cuenta de Azure</h2>
 Con la creación de una cuenta Azure se pueden crear, probar e implementar aplicaciones empresariales. Además de crear aplicaciones web y experiencia mobiles, así como obtenger información de sus datos a través del aprendizaje automático y analítico.
 En odas las cuentas se debe especificar el nombre, email, información de contacto, información de facturación y tarjeta de crédito, existen varios tipos de cuentas: 

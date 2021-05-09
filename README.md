@@ -44,35 +44,14 @@ La nube provee tanto la infraestructura como el software que neesita el usuario 
 
 ## Servicios Azure
 Azure es la nube de Microsoft que permite el uso de recursos y aplicaciones al rededor del mundo. Azure provee más de 100 servicios que permiten hacer cualquier cosa desde correr una aplicación existente hasta explorar nuevos paradigmas en software como inteligancia artificial y realidad aumentada. Los servicios más utilizados de Azure se pueden resumir de la siguiente forma:
-<ul>
-<li><h3>Servicios de infraestructura:</h3>
-<ul>
-<li><b>Computo</b>: Maquinas vituales y Contenedores</li>
-<li><b>Almacenamiento</b>: </li> 
-<li><b>Redes</b>: </li>
-</ul>
-</li>
-<li><h3>Servicios de plataforma</h3>
-<ul>
-<li><b>Computo</b>: </li>
-<li><b>Web y móvil</b>: </li>
-<li><b>Servicios de desarrollador</b>: </li>
-<li><b>Integración</b>: </li>
-<li><b>Análisis e IOT</b>: </li>
-<li><b></b>:</li>
-</ul>
-</li>
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios de Seguridad
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zonas de disponibilidad
-</ul>
 <h2>Arquitectura de azure</h2>
 <ul>
 <li><b>Regiones</b>: Son áreas geográficas del planeta que tienen al menos uno centro de datos, pero potencialmente más, que son cercanos entre sí con una red de baja latencia.
 </li>
 <li><b>Geograficas</b>: Son regiones geopolíticas o fronteras entre paíces que tienen 2 o más regiones que preservan el almacenamiento de los datos. La geografía esta dividida en las siguientes áreas:
 <ul>
-<li><h5><b>Americanas</b></h5>
-<li><h5><b>Europa</b></h5>
-<li><h5><b>Asia-Pacífico</b></h6>
-<li><h5><b>Oriente medio y África</b></h5>
-<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5><li></ul><li></ul>
+<li><h5><b>Americanas</b></h5></li>
+<li><h5><b>Europa</b></h5></li>
+<li><h5><b>Asia-Pacífico</b></h6></li>
+<li><h5><b>Oriente medio y África</b></h5></li>
+<li><h5>Zonas de disponibilidad Se llama así a las zonas conformada por centros de datos que interactuan entre sí guardando la información como duplicado una de otras, es decir la inforación de un centro de datos también esta almacenada en el otro centro de datos. Una condición importante es que los centros de datos deben estar lo suficiente separados uno de otro para no ser afectados por los mismos fenómenos naturales.</h5></li></ul></li></ul>
